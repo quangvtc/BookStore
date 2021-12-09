@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\BookStore\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Admin\Desktop\BookStore\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Admin\Desktop\BookStore\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Admin\Desktop\BookStore\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Admin\Desktop\BookStore\DAL\bin\Debug\net5.0\Persistance.dll
+C:\Users\Admin\Desktop\BookStore\DAL\bin\Debug\net5.0\Persistance.pdb
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Admin\Desktop\BookStore\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Admin\Desktop\BookStore\DAL\bin\Debug\net5.0\DbConfig.txt

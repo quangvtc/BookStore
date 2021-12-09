@@ -1,0 +1,1 @@
+server=localhost;user id=QuangNguyen;password=nguyenquang94;port=3306;database=BookStoreDB;
